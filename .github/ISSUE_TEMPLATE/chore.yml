@@ -1,18 +1,18 @@
-name: 🧩 Task
-description: General task or internal work item
-title: "[Task]: "
-labels: ["task"]
+name: 🧩 Chore
+description: General chore or internal work item
+title: "[Chore]: "
+labels: ["chore"]
 assignees: []
 body:
   - type: markdown
     attributes:
       value: |
-        Use this template for internal tasks or actionable work items.
+        Use this template for internal chores or actionable work items.
 
   - type: input
     id: goal
     attributes:
-      label: Task Goal
+      label: Chore Goal
       description: What needs to be done?
       placeholder: "Set up CI pipeline"
     validations:
@@ -21,8 +21,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Task Description
-      description: Detailed description of the task
+      label: Chore Description
+      description: Detailed description of the chore
     validations:
       required: true
 
@@ -30,7 +30,7 @@ body:
     id: acceptance
     attributes:
       label: Acceptance Criteria
-      description: When should this task be considered complete?
+      description: When should this chore be considered complete?
       placeholder: |
         - CI runs on every PR
         - Build fails on lint errors
