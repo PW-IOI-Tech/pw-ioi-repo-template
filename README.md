@@ -50,6 +50,24 @@ This project follows Git Flow:
 | bugfix/\*  | Bug fixes          |
 | hotfix/\*  | Critical fixes     |
 
+### Development Rules
+
+- All work branches must be created from `develop`
+- Pull Requests must target `develop`
+- Direct commits to `main` are **not allowed**
+
+### Hotfixes
+
+- `hotfix/*` branches are created from `main`
+- Hotfix PRs must be merged into both `main` and `develop`
+
+### Releases
+
+- Releases are prepared from `develop`
+- Final merges go into `main`
+- Releases are tagged using semantic versioning
+  (`v1.0.0`, `v1.1.0`, etc.)
+
 ---
 
 ## Issues & Features
@@ -103,13 +121,13 @@ This helps us triage and respond faster.
 
 ## Contributing
 
-See CONTRIBUTING.md for details.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 
 ---
 
 ## Code of Conduct
 
-See CODE_OF_CONDUCT.md.
+See [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md).
 
 ---
 
