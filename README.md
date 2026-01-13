@@ -61,6 +61,49 @@ Use the provided Issue Templates:
 
 Blank issues are disabled.
 
+## Label System
+
+We use a consistent labeling system across all repositories.
+
+### Issue Types
+
+- `bug`
+- `feature`
+- `enhancement`
+- `documentation`
+- `refactor`
+- `chore`
+- `discussion`
+
+### Difficulty
+
+- `good first issue`
+- `easy`
+- `medium`
+- `hard`
+
+### Status
+
+- `help wanted`
+- `in progress`
+- `blocked`
+- `needs review`
+
+### Priority
+
+- `priority: high`
+- `priority: medium`
+- `priority: low`
+
+Please use:
+
+- **One Issue Type**
+- **One Difficulty**
+- **One Priority (optional)**
+- **One Status (maintainers only)**
+
+This helps us triage and respond faster.
+
 ---
 
 ## Pull Requests
