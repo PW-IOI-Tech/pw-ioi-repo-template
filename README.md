@@ -65,35 +65,15 @@ Blank issues are disabled.
 
 We use a consistent labeling system across all repositories.
 
-### Issue Types
-
-- `bug`
-- `feature`
-- `enhancement`
-- `documentation`
-- `refactor`
-- `chore`
-- `discussion`
-
-### Difficulty
-
-- `good first issue`
-- `easy`
-- `medium`
-- `hard`
-
-### Status
-
-- `help wanted`
-- `in progress`
-- `blocked`
-- `needs review`
-
-### Priority
-
-- `priority: high`
-- `priority: medium`
-- `priority: low`
+| Issue Types     | Difficulty         | Status         | Priority           |
+| --------------- | ------------------ | -------------- | ------------------ |
+| `bug`           | `good first issue` | `help wanted`  | `priority: high`   |
+| `feature`       | `easy`             | `in progress`  | `priority: medium` |
+| `enhancement`   | `medium`           | `blocked`      | `priority: low`    |
+| `documentation` | `hard`             | `needs review` |
+| `refactor`      |                    |                |
+| `chore`         |                    |                |
+| `discussion`    |                    |                |
 
 Please use:
 
