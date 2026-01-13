@@ -2,6 +2,8 @@
 
 A short description of what this project does and why it exists.
 
+This project is maintained under **PW Institute of Innovation – Open Source** and follows real-world open-source development practices.
+
 ---
 
 ## Getting Started
@@ -93,6 +95,11 @@ This helps us triage and respond faster.
 - Ensure all checks pass before review
 
 ---
+
+## Credits
+
+- **Original Author(s):** Name(s) / Github handle(s)
+- **Maintainers:** See repository contributors
 
 ## Contributing
 

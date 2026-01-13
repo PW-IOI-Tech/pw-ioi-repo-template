@@ -61,6 +61,16 @@ docs(readme): update setup steps
 
 ---
 
+## Contributor Credit
+
+All contributions are credited automatically through GitHub history.
+
+- Merged Pull Requests record authorship
+- Commits and reviews are publicly visible
+- No manual updates are required to receive credit
+
+Please do not submit Pull Requests solely to add your name to files.
+
 ## Support
 
 For questions, use Discussions or comment on the relevant issue.
